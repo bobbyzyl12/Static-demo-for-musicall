@@ -1,2 +1,2 @@
 # Static-demo-for-musicall
-  some demos mainly write for a website
+  some demoes mainly writeen for a website
